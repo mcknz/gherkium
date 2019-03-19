@@ -1,4 +1,4 @@
-@google @functional
+@google @functional @search
 Feature: Google Search
 
   @smoke

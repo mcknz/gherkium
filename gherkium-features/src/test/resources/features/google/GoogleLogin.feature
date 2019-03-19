@@ -1,4 +1,4 @@
-@google @functional
+@google @functional @login
 Feature: Google Login
 
   @smoke
